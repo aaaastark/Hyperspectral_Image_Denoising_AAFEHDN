@@ -7,7 +7,7 @@ The efficacy of addressing high-level semantic tasks in hyperspectral images (HS
 Introducing our cutting-edge application, developed on the revolutionary AAFHDN HSI Denoising algorithm. In addressing the complexities of hyperspectral images (HSIs), this app leverages Attention and Adjacent Features - Hybrid Dense Network (AAFHDN) to overcome challenges related to noise, corruption, and feature extraction. To gain a deeper understanding of the app's structure and functionality, we invite you to watch our informative video, where we explain how the AAFHDN algorithm excels in decomposing high-frequency features, preserving geometric characteristics, and extracting valuable band correlations from adjacent spatial and multiscale separable spectral features. Discover the future of hyperspectral image processing with our innovative App.
 
 ## **Video Section**
-[![HSI App](https://github.com/aaaastark/Hyperspectral_Image_Denoising_AAFEHDN/blob/master/AppView.png)](https://drive.google.com/file/d/1T_8KnEldcaglV6O6XlDaNTFCYHe_dl3Z/view?usp=sharing)
+[![HSI App](https://github.com/aaaastark/Hyperspectral_Image_Denoising_AAFEHDN/blob/master/data/AppView.png)](https://drive.google.com/file/d/1T_8KnEldcaglV6O6XlDaNTFCYHe_dl3Z/view?usp=sharing)
 
 ## **Code Section**
 > To begin, verify the Python IDE version on your local system. For this project, we specifically utilize Python version `3.11.5`. If any problems arise during the installation of packages, we suggest using the designated Python version `3.11.5`. Alternatively, you can opt for the default Python IDE version installed on your system.
